@@ -6,6 +6,9 @@ to the walls and obstacles.
 The source code is so detailedly commented that a person who only codes "Hello World" can also understand it and I know detailedly is not a word.
 Some functions are explained below with images.
 </br>
+## Clipping of Game:
+![](https://github.com/Saniya07/AI-Dot-Bot-Hit-Die/blob/master/images/final_5fe220343bbf13003dfc0638_267364.mp4)
+</br>
 </br>
 </br>
 ## getRandomDirection() in brain.js
