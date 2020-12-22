@@ -7,5 +7,14 @@ The source code is so detailedly commented that a person who only codes "Hello W
 Some functions are explained below with images.
 
 
+
 ## getRandomDirection() in brain.js
 Given position of Dot, it can go in any of these below 8 directions.
+
+![](https://github.com/Saniya07/AI-Dot-Bot-Hit-Die/blob/master/images/Git.png)
+
+The 9th direction is (0, 0), i.e., the Dot doesn't move. This function randomly returns one of these directions to store in the directions[] array of the Dot's brain.
+
+
+
+## 
