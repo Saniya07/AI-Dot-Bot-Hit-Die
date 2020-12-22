@@ -1,0 +1,11 @@
+# AI-Dot-Bot-Hit-Die
+
+This is a simple game, in which in order to win, the player, i.e., the Dot has to hit the Goal. 
+An AI is trying to learn how to win the game. In every genration, 300 Dots are left in the game to Die in order to learn how to win. Well, they don't really die, they just stick
+to the walls and obstacles. 
+The source code is so detailedly commented that a person who only codes "Hello World" can also understand it and I know detailedly is not a word.
+Some functions are explained below with images.
+
+
+## getRandomDirection() in brain.js
+Given position of Dot, it can go in any of these below 8 directions.
