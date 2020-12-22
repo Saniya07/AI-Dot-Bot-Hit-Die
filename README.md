@@ -17,4 +17,10 @@ The 9th direction is (0, 0), i.e., the Dot doesn't move. This function randomly 
 
 
 
-## 
+## selectParent() in population.js
+For a parent we want the fittest Dot but we also want to keep the diversity among the babies. So, we select different Dots which are fittest among their population. For this, we use Roulette Wheel Selectin method. In this method a pie is create, in which the Dot with highest fitness will be covering more portion of pie such as
+
+![](https://github.com/Saniya07/AI-Dot-Bot-Hit-Die/blob/master/images/Git1.png)
+
+Now, if we rotate the wheel, then it the red marker has greater chance of stopping on the bigger colored portions, that are Dots with higher fitnesses.
+Similarly, in this function we use a __for__ loop to find a Dot whose fitness when added to __sum__, makes it bigger than the random number between 0 and sum of fitness of all the Dots in the current Population. __sum__ is variable in __selectParent()__ function.
