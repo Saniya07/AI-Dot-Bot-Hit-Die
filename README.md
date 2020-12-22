@@ -5,10 +5,8 @@ An AI is trying to learn how to win the game. In every genration, 300 Dots are l
 to the walls and obstacles. 
 The source code is so detailedly commented that a person who only codes "Hello World" can also understand it and I know detailedly is not a word.
 Some functions are explained below with images.
-
-
-
-
+</br>
+</br>
 ## getRandomDirection() in brain.js
 Given position of Dot, it can go in any of these below 8 directions.
 
