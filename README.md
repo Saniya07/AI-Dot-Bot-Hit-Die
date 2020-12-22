@@ -8,7 +8,7 @@ Some functions are explained below with images.
 
 
 
-
+<br\>
 ## getRandomDirection() in brain.js
 Given position of Dot, it can go in any of these below 8 directions.
 
