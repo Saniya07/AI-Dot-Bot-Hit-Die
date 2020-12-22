@@ -6,6 +6,8 @@ to the walls and obstacles.
 The source code is so detailedly commented that a person who only codes "Hello World" can also understand it and I know detailedly is not a word.
 Some functions are explained below with images.
 </br>
+To see the working example, click on the link in the repository's __About__.
+</br>
 </br>
 </br>
 ## getRandomDirection() in brain.js
