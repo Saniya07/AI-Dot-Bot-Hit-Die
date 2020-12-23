@@ -1,4 +1,4 @@
-# AI-Dot-Bot-Hit-Die
+# AI-Dot-Bot-Hit-Die using genetic algorithm
 
 This is a simple game, in which in order to win, the player, i.e., the Dot has to hit the Goal. 
 An AI is trying to learn how to win the game. In every genration, 300 Dots are left in the game to Die in order to learn how to win. Well, they don't really die, they just stick
